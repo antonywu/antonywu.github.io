@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Former Microsoftie (2006-2010), worked on Outlook.com AddressBook, Live Messenger Server / Client (now Skype)
   Interested in financial data analysis by using a wide array of tools: R,python,nodeJs,Microsoft Excel VBA
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://antonywu.github.io" # the base hostname & protocol for your site
 twitter_username: antonywu
 github_username:  antonywu
 
